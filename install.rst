@@ -38,6 +38,16 @@ Now, you can just use *swiftpak*::
 
   $ swiftpak
 
+Snap Package
+************
+
+Swift can also be installed using Ubuntu's snap package system with:
+
+
+  $ snap install swift
+
+The project page can be found `here <https://github.com/lf-araujo/swift-linux>`
+
 Ubuntu
 ******
 
